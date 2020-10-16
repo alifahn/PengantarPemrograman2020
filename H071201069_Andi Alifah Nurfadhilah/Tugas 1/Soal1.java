@@ -15,7 +15,3 @@ public class Soal1 {
         
     }
 }
-
-class belajar {
-    
-}
